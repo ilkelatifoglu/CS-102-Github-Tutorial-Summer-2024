@@ -1,2 +1,37 @@
 Ilke - Latifoglu – 22203818 - https://github.com/ilkelatifoglu/CS-102-Github-Tutorial-Summer-2024
-My favorite game is a mobile app called BBTAN.
+My favorite game is a mobile app called BBTAN.commit 31e349e52238cb93c9441b8acc5f71c50e00f521
+Merge: 92daa88 d24bc35
+Author: İlke Latifoğlu <114291359+ilkelatifoglu@users.noreply.github.com>
+Date:   Thu Jun 13 18:54:46 2024 +0300
+
+    Merge pull request #1 from ilkelatifoglu/new_information
+    
+    Create a pull request for the commit Favorite game added to info.txt
+
+commit d24bc3501ae2d6a05269531864dc8e6d126f27b1
+Author: İlke Latifoğlu <ilkeltfgl@gmail.com>
+Date:   Thu Jun 13 18:46:45 2024 +0300
+
+    Favorite game added to info.txt
+    
+    further updates
+
+commit 92daa88d9d7d007c1883dfbba5daaf030cd8c92a
+Author: İlke Latifoğlu <ilkeltfgl@gmail.com>
+Date:   Thu Jun 13 18:42:33 2024 +0300
+
+    İlke Latifoğlu updated info.txt
+    
+    credentials are written to a txt file
+
+commit 9385aa639daff661edd15965ee0d9b15e12abba6
+Author: İlke Latifoğlu <114291359+ilkelatifoglu@users.noreply.github.com>
+Date:   Thu Jun 13 18:38:18 2024 +0300
+
+    Update README.md
+
+commit b0eda67756ff47ac9c6e187c2473dfd3dfe44578
+Author: İlke Latifoğlu <114291359+ilkelatifoglu@users.noreply.github.com>
+Date:   Thu Jun 13 18:37:16 2024 +0300
+
+    Initial commit
